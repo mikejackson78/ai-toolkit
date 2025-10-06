@@ -10,7 +10,7 @@
     "lint": "next lint",
     "update_db": "npx prisma generate && npx prisma db push",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,css,scss}\"",
-    "ngrok": "ngrok http 3000"
+    "ngrok": "ngrok http 8675"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.0",
